@@ -43,6 +43,6 @@ You can find me here too 👇
  <br/>
  <br>
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pietro-martins-marques&show_icons=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pietro-dev&show_icons=true)
 
 
