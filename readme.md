@@ -1,6 +1,6 @@
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 
-🎖️ My name's Pietro and I'm a Systems Information Student at the 5th period.
+🎖️ My name's Pietro and I'm a Systems Information Student at the 6th period.
 
 💻 I'm Studying some technologies and languages like JS, HTML, CSS, REACT, NODEJS and a few others.
 
