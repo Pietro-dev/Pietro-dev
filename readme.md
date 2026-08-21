@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&color=gradient" alt="Waves">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient" alt="Waves">
   <img width="33%" src="https://github.com/hak553/photoToProfile/blob/main/Programming%20Computer.svg" alt="Developer Laptop">
 </div>
 
@@ -38,7 +38,7 @@
   <img width="45" src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
   <img width="45" src="https://skillicons.dev/icons?i=git" alt="Git"/>
   <img width="45" src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
-  <img width="45" src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
+ <!-- <img width="45" src="https://skillicons.dev/icons?i=docker" alt="Docker"/> -->
   <img width="45" src="https://skillicons.dev/icons?i=maven" alt="Maven"/>
   <img width="45" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/>
   <img width="45" src="https://skillicons.dev/icons?i=html" alt="HTML"/>
