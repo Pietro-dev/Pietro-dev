@@ -24,10 +24,10 @@
 
 ```java
 public class Pietro {
-    public static void main(String[] args) {
-        // compilado no Brasil, rodando a base de muito café
-        System.out.println("Java Developer — construindo meu caminho, uma classe de cada vez.");
-    }
+  public static void main(String[] args) {
+  // compilado no Brasil, rodando a base de muito café
+  System.out.println("Java Developer — construindo meu caminho, uma classe de cada vez.");
+  }
 }
 ```
 
